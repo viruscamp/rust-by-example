@@ -1,5 +1,5 @@
 `Iterator::find` is a function which when passed an iterator, will return
-the first element which satisfies the predicate as an `Option`. It's
+the first element which satisfies the predicate as an `Option`. Its
 signature:
 
 ```rust
@@ -21,6 +21,6 @@ pub trait Iterator {
 
 ### See also:
 
-[`std::iter::iterator::find`][find]
+[`std::iter::Iterator::find`][find]
 
 [find]: http://doc.rust-lang.org/std/iter/trait.Iterator.html#method.find
